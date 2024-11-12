@@ -1,0 +1,13 @@
+.win-message {
+    font-size: 24px;
+    color: #333;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #87ceeb;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 300px;
+    margin: 20px auto 0;
+  }
+  
