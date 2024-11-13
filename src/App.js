@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import GameTitle from './Component/GameTitle.js';
-import NewGameButton from './Component/NewGameButton.js';
-import Score from './Component/Score.js';
-import GameBoard from './Component/GameBoard.js';
-import WinMessage from './Component/WinMessage.js';
+import GameTitle from './Component/GameTitle.jsx';
+import NewGameButton from './Component/NewGameButton.jsx';
+import Score from './Component/Score.jsx';
+import GameBoard from './Component/GameBoard.jsx';
+import WinMessage from './Component/WinMessage.jsx';
 
 const MemoryGame = () => {
   const generateCards = () => {
